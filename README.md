@@ -1,2 +1,2 @@
 # toy_ds_project
-Repository for DSCI worksheet
+project creation date: 2025-10-01
